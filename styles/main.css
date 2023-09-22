@@ -1,0 +1,12 @@
+.politicians, .corporations, .pacs {
+    margin: 10px;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+.politician, .corporation, .pac {
+    background-color: bisque;
+    margin: 10px;
+    padding: 5px;
+}
+
